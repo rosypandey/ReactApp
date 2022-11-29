@@ -1,0 +1,53 @@
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding:20px;margin: 0px;
+}
+.banner{
+    font-size:80px;
+    font-family: bold;
+    align-items: center;
+
+}
+.bg{
+    background-image: url(http://trydo.rainbowit.net/assets/images/bg/bg-image-33.jpg);width:100%;height:800px;opacity:0.8;
+}
+
+.space{
+    padding:10px 200px;
+}
+.bt{margin-left:200px;}
+.danger{
+    background-color: #f6f6f6;
+    &:hover{
+        background-color: #dc3545;
+        color: #f6f6f6;
+        .icon{color: #f6f6f6;}
+    }
+}
+.border{
+    border: 9px solid white;
+    border-radius: 50%;
+    padding:5px;
+    background-color:black;
+    color: white;
+}
+.icon{
+    font-size:50px;
+    color: #dc3545;
+   
+}
+.ww{
+    margin: 30px;
+}
+.rel{position: relative;}
+.pos{
+    position: absolute;top:250px;left: 600px;
+  
+}
+.label{float: right;}
+.icon1{
+    font-size:100px;
+    color:white;
+    &:hover{
+        font-size:150px;
+    }
+}
