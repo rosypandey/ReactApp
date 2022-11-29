@@ -1,5 +1,6 @@
 {
   "name": "myproject",
+  "homepage": "https://rosypandey.com.np",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
